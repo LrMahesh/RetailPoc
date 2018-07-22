@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://D:/Hadoop/kelly/jarfiles/jarfiles cpy/hadoop-core-1.2.1 jars.jar" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/lib/commons-codec-1.10.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/lib/commons-logging-1.2.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/lib/junit-4.12.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/lib/log4j-1.2.17.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/ooxml-lib/curvesapi-1.03.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-3.14-20160307.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-examples-3.14-20160307.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-excelant-3.14-20160307.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-ooxml-3.14-20160307.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar!/" />
+    <libelement value="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-scratchpad-3.14-20160307.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.6" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="hadoop-core-1.2.1 jars.jar">
+        <CLASSES>
+          <root url="file://D:/Hadoop/kelly/jarfiles/jarfiles cpy/hadoop-core-1.2.1 jars.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.10.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/lib/commons-codec-1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.2.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/lib/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.12.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/lib/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/lib/log4j-1.2.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="curvesapi-1.03.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/ooxml-lib/curvesapi-1.03.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlbeans-2.6.0.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-3.14-20160307.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-3.14-20160307.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-examples-3.14-20160307.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-examples-3.14-20160307.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-excelant-3.14-20160307.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-excelant-3.14-20160307.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-3.14-20160307.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-ooxml-3.14-20160307.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-schemas-3.14-20160307.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-scratchpad-3.14-20160307.jar">
+        <CLASSES>
+          <root url="jar://F:/hadoop notes/MAPREDUCE MATERIALS/poi-bin-3.14/poi-3.14/poi-scratchpad-3.14-20160307.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
